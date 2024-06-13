@@ -1,0 +1,40 @@
+{
+  "stuff": [
+    {
+      "id": "e737",
+      "name": "bangk",
+      "price": "100",
+      "category": "Electronic"
+    },
+    {
+      "id": "3ec5",
+      "name": "avhlkja",
+      "price": "768",
+      "category": "fsaf"
+    },
+    {
+      "id": "6bb9",
+      "name": "",
+      "price": "",
+      "category": "Furniture"
+    }
+  ],
+  "category": [
+    {
+      "id": "b1f8",
+      "name": "Furniture"
+    },
+    {
+      "id": "d064",
+      "name": "Electronik"
+    },
+    {
+      "id": "bf8a",
+      "name": "Food & Drink"
+    },
+    {
+      "id": "5bc2",
+      "name": "fsaf"
+    }
+  ]
+}
